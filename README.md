@@ -1,5 +1,7 @@
 # babel-import
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cameron-martin/babel-imports.svg)](https://greenkeeper.io/)
+
 Checks whether an `Identifier` or `MemberExpression` references a specific import from a specific package.
 
 Like [`referencesImport`][referencesImport], but works with ES2015, CommonJS and AMD syntax.
